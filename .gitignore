@@ -9,6 +9,7 @@
 
 # dependencies
 /node_modules
+/src
 
 # profiling files
 chrome-profiler-events*.json
@@ -47,3 +48,12 @@ Thumbs.db
 /public/
 /public/*
 /public
+/angular.json
+/karma.conf.js
+/ngsw-config.json
+/package.json
+/package-lock.json
+/tsconfig.app.json
+/tsconfig.json
+/tsconfig.spec.json
+/tslint.json
