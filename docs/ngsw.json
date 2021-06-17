@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1623922519443,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main-es2015.08c88f5e5c862abf176b.js",
+        "/main-es5.08c88f5e5c862abf176b.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.447ba9d64387f22b605b.js",
+        "/polyfills-es5.9bd8f868c36b4574ce1b.js",
+        "/runtime-es2015.a4dadbc03350107420a4.js",
+        "/runtime-es5.a4dadbc03350107420a4.js",
+        "/styles.b1e06497df7d4e6e8a7a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/apple-touch-icon.png",
+        "/assets/bg.webp",
+        "/assets/favicon-16x16.png",
+        "/assets/favicon-32x32.png",
+        "/assets/favicon.ico",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/logo.webp",
+        "/assets/logos/bhype.png",
+        "/assets/logos/cs.png",
+        "/assets/logos/dex.png",
+        "/assets/logos/pc.svg",
+        "/assets/logos/poocoin.png",
+        "/assets/og.png",
+        "/assets/site.webmanifest",
+        "/assets/social/bscscan.svg",
+        "/assets/social/discord.svg",
+        "/assets/social/github.svg",
+        "/assets/social/reddit.svg",
+        "/assets/social/telegram.svg",
+        "/assets/social/twitter.svg",
+        "/bg.f20a365acaf6230e849e.webp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/apple-touch-icon.png": "e178d338dbdc1c4edc465a0791bea07c058e1be3",
+    "/assets/bg.webp": "0b358c97ba57266dc70b1a03b9b7fbefda7722b7",
+    "/assets/favicon-16x16.png": "2fdf4f1988c7603500fad95f89e702fc51b70c7f",
+    "/assets/favicon-32x32.png": "239b9c4aa7214a1e353f5205490b41c33489aea3",
+    "/assets/favicon.ico": "e9919b46aea0005a57a5e9469723b791b5b02be0",
+    "/assets/icons/icon-192x192.png": "4ca226f3c42ed1850ad93dc1f6a8136d4fe84584",
+    "/assets/icons/icon-512x512.png": "76954eb76d3479b51b1fb74c4b462e7b9f28cb14",
+    "/assets/logo.webp": "d76d82d1f93cd031d3ff6eb3150517055cec645b",
+    "/assets/logos/bhype.png": "45b9905d7f5568dd0e0e06305e97592f486ed02a",
+    "/assets/logos/cs.png": "f4ad0b668fed20ffdad72f5eb60b002625aaa1f3",
+    "/assets/logos/dex.png": "22e9c4bdfd0ee96d801a72bf9ac04bf847347587",
+    "/assets/logos/pc.svg": "ec8e2d5a145ab7578183ea9d45b4f2259bb81c63",
+    "/assets/logos/poocoin.png": "9ab8cc8a90d1d9b0ac36a9c74197c809702d1174",
+    "/assets/og.png": "607b6e3e22e2e73076d921110813a9225676aaa1",
+    "/assets/site.webmanifest": "52c3eca19ab9a61e815bfa7e70b63b5a32af6019",
+    "/assets/social/bscscan.svg": "6e7b69661fa2ba5f0953fbce8ddefc5edc463fc2",
+    "/assets/social/discord.svg": "fbcde9644ff8dcb74fdd50c3f2595332cdb89907",
+    "/assets/social/github.svg": "6ab1cc32c4170d3ca552e1c68ba19dcc23e7b96b",
+    "/assets/social/reddit.svg": "681b75c607d0b6601c8cf0713d7365c9087ddb8e",
+    "/assets/social/telegram.svg": "1d73b98585adb96383629402681b3462e705cd9e",
+    "/assets/social/twitter.svg": "cc401ff279fb6862125fd6a94beeca15b59e9497",
+    "/bg.f20a365acaf6230e849e.webp": "0b358c97ba57266dc70b1a03b9b7fbefda7722b7",
+    "/index.html": "a55abace0b3bfe669aa464f1e32e993000ec4588",
+    "/main-es2015.08c88f5e5c862abf176b.js": "39dd57bb593ada6d01eaa7f16c2664b7ea2b0bd3",
+    "/main-es5.08c88f5e5c862abf176b.js": "cff48deb1a795d36a380fbd2ef63eade7ab4efa7",
+    "/manifest.webmanifest": "f01d118c2b05e21a167c6867547f134c622d3710",
+    "/polyfills-es2015.447ba9d64387f22b605b.js": "556c7af2665e5259efdcc01d54d244edc516375a",
+    "/polyfills-es5.9bd8f868c36b4574ce1b.js": "2ba566dc5b981303505a861a68a8f59eb9f46361",
+    "/runtime-es2015.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.b1e06497df7d4e6e8a7a.css": "cff32be4109af6d32c1edeba328dd429cf91fa95"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
